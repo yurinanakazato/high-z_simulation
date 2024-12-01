@@ -8,9 +8,10 @@ list_title: One day workshop for high-z cosmological simulations
 <!-- CSSを適用 -->
 <link rel="stylesheet" href="{{'/css/style.css'|relative_url}}">
 
-<header>
-  <img src="/image/JWST_image.png" alt="Workshop Header" style="width: 100%; height: 300px; object-fit: cover;">
-</header>
+<p align="center">
+<img src="./image/JWST_image.png" width="950px">
+</p>
+
 
 <span style="font-size: 120%; color: black;"> date </span> 
 
