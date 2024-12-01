@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: home
-title: One Day Workshop for High-z Cosmological Simulations
+title: 
 list_title: One day workshop for high-z cosmological simulations
 ---
 
