@@ -1,6 +1,9 @@
-title: one day workshop for high-z cosmological simulations
-description: 
-author: 
+title: One Day Workshop for High-z Cosmological Simulations
+description: A workshop focusing on high-redshift cosmological simulations, hosted at the University of Tokyo.
+author: Yurina Nakazato
+lang: en
+
+favicon: /assets/images/favicon.ico
 
 plugins:
   - jekyll-sitemap
@@ -8,7 +11,7 @@ plugins:
 google_analytics: 
 theme: minima
 
-base_url: /high-z
+#base_url: /high-z
 
 # Minima social links
 #twitter_username: yurinanakazato
