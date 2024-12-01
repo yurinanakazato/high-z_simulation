@@ -5,7 +5,11 @@ title:
 list_title: One day workshop for high-z cosmological simulations
 ---
 
-![Header Image](/image/JWST_image.png)
+#![Header Image](/image/JWST_image.png)
+
+<header>
+  <img src="{{ '/image/JWST_image.png' | relative_url }}" alt="Workshop Header">
+</header>
 
 <link rel="stylesheet" href="/css/style.css">
 
