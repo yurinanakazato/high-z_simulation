@@ -21,19 +21,23 @@ Access is [here](https://www.phys.s.u-tokyo.ac.jp/en/access/)
 
 <span style="font-size: 120%; color: black;"> Speakers </span> 
 
-- Dr. Example Speaker (University A): "Topic A"
-- Prof. Another Speaker (Institute B): "Topic B"
+- Dr. Mahsa Kohandel (Scuola Normale Superiore)
+- Dr. Aswin Vijayan  (University of Sussex)
+- Ms. Yurina Nakazato (The University of Tokyo)
 <br><br>
 
----
-layout: default
-title: Workshop Program
-permalink: /program/
----
+
 ## Program Schedule
 | Time          | Session                                   | Speaker        |
-|---------------|------------------------------------------|----------------|
-| 10:00 - 10:15 | Opening Remarks                          | Host Name      |
-| 10:15 - 11:00 | High-z Simulations Overview              | Dr. Speaker A  |
-| 11:15 - 12:00 | Advanced Techniques in Cosmological AI   | Prof. Speaker B|
-| 12:00 - 13:00 | Lunch Break                              |                |
+|---------------|------------------------------------------|---------------- |
+| 13:00 - 13:20 | summary of z > 10 observations by ALMA (slides provided by Dr. Jorge Zavala)   | Yurina Nakazato   |
+| 13:20 - 13:45 | SERRA simulations                        | Mahsa Kohandel  |
+| 13:45 - 14:00 | Q and A                                  | |
+| 14:00 - 14:25 | FLARES simulations                       | Aswin Vijayan   |
+| 14:25 - 14:40 | Q and A                                  | |
+| 14:40 - 14:05 | FirstLight simulations                   | Yurina Nakazato |
+| 15:05 - 15:20 | Q and A                                  |                 |
+| 15:20 - 15:30 | Coffee Break                             |                 |
+| 15:30 - 17:00 | Discussion                               |                 |
+
+
