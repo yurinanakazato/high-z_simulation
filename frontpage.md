@@ -13,12 +13,11 @@ list_title: One day workshop for high-z cosmological simulations
 </p>
 
 
-<span style="font-size: 120%; color: black;"> date </span> 
-
+## <span style="font-size: 120%; color: CornflowerBlue; font-weight: bold;">Date</span>
 Dec 18th, Wednesday, 2024
 <br><br>
 
-<span style="font-size: 120%; color: black;"> Places </span> 
+## <span style="font-size: 120%; color: CornflowerBlue; font-weight: bold;"> Places </span> 
 
 Room 908 in Science Building 1
 Department of Physics, University of Tokyo
@@ -26,14 +25,14 @@ Access is [here](https://www.phys.s.u-tokyo.ac.jp/en/access/)
 <br>
 <br>
 
-<span style="font-size: 120%; color: black;"> Speakers </span> 
+## <span style="font-size: 120%; color: CornflowerBlue; font-weight: bold;"> Speakers </span> 
 
 - Dr. Mahsa Kohandel (Scuola Normale Superiore)
 - Dr. Aswin Vijayan  (University of Sussex)
 - Ms. Yurina Nakazato (The University of Tokyo)
 <br><br>
 
-## Program Schedule
+## <span style="color: CornflowerBlue;">Program Schedule</span>
 
 | Time          | Session                                   | Speaker        |
 |---------------|-------------------------------------------|----------------|
