@@ -9,3 +9,9 @@ body {
   margin: 0 auto; /* 中央揃え */
   padding: 0 15px; /* サイドに少し余白を追加 */
 }
+
+header img {
+  width: 100%; /* 横幅をページいっぱいに広げる */
+  height: 300px; /* 高さを指定して細長くする */
+  object-fit: cover; /* 画像を切り取って適切にフィットさせる */
+}
