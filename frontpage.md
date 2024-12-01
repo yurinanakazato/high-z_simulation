@@ -1,15 +1,16 @@
 ---
 permalink: /
 layout: home
-title: 
+title: One Day Workshop for High-z Cosmological Simulations
 list_title: One day workshop for high-z cosmological simulations
 ---
 
-<header>
-  <img src="{{ '/image/JWST_image.png' | relative_url }}" alt="Workshop Header">
-</header>
+<!-- CSSを適用 -->
+<link rel="stylesheet" href="{{ '/css/style.css' | relative_url }}">
 
-<link rel="stylesheet" href="/css/style.css">
+<header>
+  <img src="{{ '/image/JWST_image.png' | relative_url }}" alt="Workshop Header" style="width: 100%; height: 300px; object-fit: cover;">
+</header>
 
 <span style="font-size: 250%;"> One day workshop for high-z cosmological simulations  </span>
 
