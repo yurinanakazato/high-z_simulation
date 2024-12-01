@@ -4,6 +4,9 @@ layout: home
 title: 
 list_title: One day workshop for high-z cosmological simulations
 ---
+
+![Header Image](/images/JWST_image.png)
+
 <span style="font-size: 250%;"> One day workshop for high-z cosmological simulations  </span>
 
 <span style="font-size: 120%; color: black;"> date </span> 
