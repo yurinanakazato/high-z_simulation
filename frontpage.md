@@ -9,10 +9,8 @@ list_title: One day workshop for high-z cosmological simulations
 <link rel="stylesheet" href="{{'/css/style.css'|relative_url}}">
 
 <header>
-  <img src="/image/JWST_image.png" alt="Workshop Header">
+  <img src="/image/JWST_image.png" alt="Workshop Header" style="width: 100%; height: 300px; object-fit: cover;">
 </header>
-
-<span style="font-size: 250%;"> One day workshop for high-z cosmological simulations  </span>
 
 <span style="font-size: 120%; color: black;"> date </span> 
 
