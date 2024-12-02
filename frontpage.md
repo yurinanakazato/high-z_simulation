@@ -37,11 +37,11 @@ Access is [here](https://www.phys.s.u-tokyo.ac.jp/en/access/)
 | Time          | Session                                   | Speaker        |
 |---------------|-------------------------------------------|----------------|
 | 13:00 - 13:20 | Summary of z > 10 observations by ALMA (slides provided by Dr. Jorge Zavala) | Yurina Nakazato |
-| 13:20 - 13:45 | SERRA simulations                        | Mahsa Kohandel  |
+| 13:20 - 13:45 | [SERRA simulations](http://cosmology.sns.it/data_access.html)                        | Mahsa Kohandel  |
 | 13:45 - 14:00 | Q and A                                  |                |
-| 14:00 - 14:25 | FLARES simulations                       | Aswin Vijayan   |
+| 14:00 - 14:25 | [FLARES simulations](https://flaresimulations.github.io/)                       | Aswin Vijayan   |
 | 14:25 - 14:40 | Q and A                                  |                |
-| 14:40 - 15:05 | FirstLight simulations                   | Yurina Nakazato |
+| 14:40 - 15:05 | [FirstLight simulations](http://odin.ft.uam.es/FirstLight/index.html)                   | Yurina Nakazato |
 | 15:05 - 15:20 | Q and A                                  |                |
 | 15:20 - 15:30 | Coffee Break                             |                |
 | 15:30 - 17:00 | Discussion                               |                |
