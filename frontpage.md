@@ -19,7 +19,7 @@ Dec 18th, Wednesday, 2024
 
  <span style="font-size: 120%; color: CornflowerBlue; font-weight: bold;"> Places </span> 
 
-Room 908 in Science Building 1
+Room 913 in Science Building 1 
 Department of Physics, University of Tokyo
 Access is [here](https://www.phys.s.u-tokyo.ac.jp/en/access/)
 <br>
@@ -36,13 +36,33 @@ Access is [here](https://www.phys.s.u-tokyo.ac.jp/en/access/)
 
 | Time          | Session                                   | Speaker        |
 |---------------|-------------------------------------------|----------------|
-| 13:00 - 13:20 | Summary of z > 10 observations by ALMA (slides provided by Dr. Jorge Zavala) | Yurina Nakazato |
-| 13:20 - 13:45 | [SERRA simulations](http://cosmology.sns.it/data_access.html)                        | Mahsa Kohandel  |
+| 13:00 - 13:20 | Summary of z > 10 observations by ALMA and JWST | Yurina Nakazato |
+| 13:20 - 13:45 | Bridging zoom-in cosmological simulations of early galaxies and multi-wavelength observations: SERRA view                        | Mahsa Kohandel  |
 | 13:45 - 14:00 | Q and A                                  |                |
-| 14:00 - 14:25 | [FLARES simulations](https://flaresimulations.github.io/)                       | Aswin Vijayan   |
+| 14:00 - 14:25 | Living in a broken Universe: Insights from FLARES for the high-z Universe                     | Aswin Vijayan   |
 | 14:25 - 14:40 | Q and A                                  |                |
-| 14:40 - 15:05 | [FirstLight simulations](http://odin.ft.uam.es/FirstLight/index.html)                   | Yurina Nakazato |
+| 14:40 - 15:05 | Tracing Early Galaxy Formation with FirstLight: Statistical Insights and Inner Structures of high-z galaxies                | Yurina Nakazato |
 | 15:05 - 15:20 | Q and A                                  |                |
 | 15:20 - 15:30 | Coffee Break                             |                |
 | 15:30 - 17:00 | Discussion                               |                |
+
+
+
+ <span style="font-size: 120%; color: CornflowerBlue; font-weight: bold;">Abstract</span>  
+### "Living in a broken Universe: Insights from FLARES for the high-z Universe"  
+#### Aswin Vijayan  
+JWST with its unparalleled sensitivity, broad wavelength coverage, and exceptional spatial and spectral resolution, has revolutionized the study of galaxy formation. It has uncovered bright, star-forming galaxies at redshifts as high as 𝑧∼14, detected low-luminosity active galactic nuclei (AGN) at 𝑧>7, and revealed distant quiescent galaxies. These discoveries raise a critical question: to what extent do these observations challenge our current models of galaxy formation and evolution? While some initial claims have been proven to be erroneous, several compelling tensions with theoretical models persist, offering exciting opportunities for better understanding the high-z Universe. In this talk I will focus on what we have learnt from the First Light And Reionisation Epoch Simulations (FLARES) by confronting the model against the latest observations.  
+
+
+### "Tracing Early Galaxy Formation with FirstLight: Statistical Insights and Inner Structures of high-z galaxies"  
+#### Yurina Nakazato  
+JWST has unveiled an unexpectedly large abundance of UV-bright galaxies at z > 10 with its high sensitivity and revealed diverse morphologies of z > 6 galaxies, such as clumpy and disk galaxies. Using the FirstLight zoom-in simulations, which provide mass-complete samples and high spatial and time resolutions, I will present insights into these recent observational findings. Additionally, I will share updates on my ongoing multi-wavelength analyses, exploring future synergies between JWST and ALMA.
+
+
+
+
+
+
+
+
 
